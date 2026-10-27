@@ -56,7 +56,7 @@ The site is deployed on **Vercel**. Because it is a static site, it needs no bui
 
 **Musa Njabulo Mahlangu**, Mahlangu Online Solutions
 
-- 🌐 [portfolio-sand-five-b7fhxvcam9.vercel.app](https://portfolio-sand-five-b7fhxvcam9.vercel.app/)
+- 🌐 https://portfolio-mahlangu.netlify.app/
 - ✉️ musamahlangu1977@gmail.com
 - 💬 WhatsApp: +27 63 141 3009
 
