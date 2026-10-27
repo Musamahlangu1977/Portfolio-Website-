@@ -4,8 +4,7 @@ The personal portfolio and services website of **Musa Njabulo Mahlangu**, founde
 
 The site presents career, brand and digital services for job seekers and small businesses. It covers the services, client results, the working process, pricing and testimonials. Visitors can send an enquiry straight to WhatsApp or email.
 
-🔗 **Live site:** [portfolio-sand-five-b7fhxvcam9.vercel.app](https://portfolio-sand-five-b7fhxvcam9.vercel.app/)
-
+🔗 **Live site:** https://portfolio-mahlangu.netlify.app/
 ---
 
 ## ✨ Features
